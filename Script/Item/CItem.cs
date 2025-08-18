@@ -1,5 +1,5 @@
 using UnityEngine;
-
+//쓰이지않음
 public class CItem : MonoBehaviour
 {
     
