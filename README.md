@@ -12,17 +12,17 @@ Unity로 제작한 좀비 슈팅 게임 프로토타입 입니다.
 Assets/
 └─ Scripts/
    ├─ Enemy/
-   │   ├─ Enemy.cs       // 상태 패턴 기반 적 AI
-   │   ├─ IEnemyState.cs            // 상태 인터페이스
+   │   ├─ Enemy.cs                   # 상태 패턴 기반 적 AI
+   │   ├─ IEnemyState.cs             # 상태 인터페이스
    │
    ├─ Inventory/
-   │   ├─ InventorySystem.cs       // 인벤토리 관리
-   │   ├─ Slot.cs                  // 인벤토리 내 아이템 슬롯
-   │   ├─ EquipmentSlot.cs          // 장비창 관
+   │   ├─ InventorySystem.cs         # 인벤토리 관리
+   │   ├─ Slot.cs                    # 인벤토리 내 아이템 슬롯
+   │   ├─ EquipmentSlot.cs           # 장비창 관
    │
-   ├─ Item/                  // 게임 내 아이템 관리
+   ├─ Item/                          # 게임 내 아이템 관리
    │
-   └─ Player/            //플레이어 입력 관리
+   └─ Player/                        # 플레이어 입력 관리
 ```
 
 ## 주요 기능
